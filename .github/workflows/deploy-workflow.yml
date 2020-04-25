@@ -1,2 +1,0 @@
-name: Deploy Jekyll Site
-  uses: sujaykundu777/jekyll-deploy-action@v1
